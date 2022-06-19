@@ -1,1 +1,2 @@
-# TicTacToe_apk
+# TicTacToe_apk: simple TicTacToe Game
+
