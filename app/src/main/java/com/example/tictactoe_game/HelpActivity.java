@@ -15,7 +15,7 @@ public class HelpActivity extends AppCompatActivity {
 
     }
 
-    public void go_back(View view){
+    public void go_back(View view){ //Springen in die MainActivity
         Intent intent = new Intent(HelpActivity.this, MainActivity.class);
         startActivity(intent);
     }

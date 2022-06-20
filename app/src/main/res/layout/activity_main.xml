@@ -11,15 +11,16 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="311dp"
-        android:layout_height="310dp"
+        android:layout_width="300dp"
+        android:layout_height="273dp"
         android:alpha="0"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.46"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.363"
+        app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/evil" />
 
     <LinearLayout
